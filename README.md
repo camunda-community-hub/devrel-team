@@ -12,4 +12,8 @@ We have a number of ways we work toward making developers be more successful, in
 
 ## Who Are We?
 
-We're a globally distributed team made up of developers and tech-savvy individuals who care about the tech community. We enjoy creating diverse and inclusive communities that provide 
+We're a globally distributed team made up of developers and tech-savvy individuals who care about the tech community. We enjoy creating diverse and inclusive communities that provide solutions for our technical audiences.
+
+### Team Members
+
+* [Mary Thengvall](https://github.com/mary-grace) - Director of Developer Relations. I love dogs, cheese, and living near the ocean.
