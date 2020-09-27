@@ -9,3 +9,7 @@ We have a number of ways we work toward making developers be more successful, in
 * **Awareness** of our products & projects.
 * **Enablement** through content and excellent experiences.
 * **Engagement** (Collaboration) with other Camunda community members.
+
+## Who Are We?
+
+We're a globally distributed team made up of developers and tech-savvy individuals who care about the tech community. We enjoy creating diverse and inclusive communities that provide 
