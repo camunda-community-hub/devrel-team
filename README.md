@@ -19,4 +19,5 @@ We're a globally distributed team made up of developers and tech-savvy individua
 Sorted alphabetically by firstname
 
 * [Bernd Ruecker](https://github.com/berndruecker) - Co-Founder of Camunda and Chief Technoligist. Not officially part of the DevRel team, but hanging around there most often trying to do something useful. Located in the south of Germany.
+* [David G. Simmons](https://github.com/davidgs) - Principal Developer Advocate. Sort of nuts about IoT. Completely nuts about dogs. 
 * [Mary Thengvall](https://github.com/mary-grace) - Director of Developer Relations. I love dogs, cheese, and living near the ocean.
