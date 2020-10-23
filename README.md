@@ -22,4 +22,5 @@ Sorted alphabetically by firstname
 * [David G. Simmons](https://github.com/davidgs) - Principal Developer Advocate. Sort of nuts about IoT. Completely nuts about dogs. 
 * [Josh Wulf](https://github.com/jwulf) - Developer Advocate. I write code in a lot of programming languages, but ♥️ JavaScript the most. JavaScript is not only the language that will survive the apocalypse, it's the language most likely to cause it.
 * [Mary Thengvall](https://github.com/mary-grace) - Director of Developer Relations. I love dogs, cheese, and living near the ocean.
+* [Niall Deehan](https://github.com/NPDeehan) - Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
 * [Mauricio 'Salaboy' Salatino](https://github.com/salaboy) - Engineer / Developer Advocate / Open Source and Cloud addict. I write code, I think and then write more code. I make sure that I don't re-invent the wheel by contributing to existing projects instead of creating my own.
