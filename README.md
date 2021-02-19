@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Camunda%20DevRel%20Project-Created%20by%20the%20Camunda%20Developer%20Relations%20team-0Ba7B9">
+
 # Camunda Developer Relations
 
 The Camunda Developer Relations team exists to serve the Camunda developer community, from internal employees to Open Source contributors, Enterprise customers, and the broader tech community.
