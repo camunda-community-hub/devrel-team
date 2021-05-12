@@ -25,6 +25,7 @@ Sorted alphabetically by firstname
 * [Danielle Andrist](https://www.linkedin.com/in/danielle-andrist/) - Organization junkie, reformatting fanatic, bad joke teller, new mom. 
 * [David G. Simmons](https://github.com/davidgs) - Principal Developer Advocate. Sort of nuts about IoT. Completely nuts about dogs 🐾.
 * [Josh Wulf](https://github.com/jwulf) - Developer Advocate. I write code in a lot of programming languages, but ♥️ JavaScript the most. JavaScript is not only the language that will survive the apocalypse, it's the language most likely to cause it.
+* [Luca Buchholz](https://twitter.com/lucaceline_) - Global Community Manager. Passionate about building meaningful relationships that serve global communities and empower individuals. Based in Berlin.
 * [Mary Thengvall](https://github.com/mary-grace) - Director of Developer Relations. I love dogs, cheese, and living near the ocean.
 * [Mauricio 'Salaboy' Salatino](https://github.com/salaboy) - Engineer / Developer Advocate / Open Source and Cloud addict. I write code, I think and then write more code. I make sure that I don't re-invent the wheel by contributing to existing projects instead of creating my own.
 * [Nele Lea Uhlemann](https://github.com/Nlea) -  Associate Developer Advocate. Passionate about Open Source and identifing how technology can help people, organizations and society. If I am not infront of a keyboard you find me rock climbing and running.
