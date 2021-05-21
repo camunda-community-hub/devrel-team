@@ -22,6 +22,7 @@ Sorted alphabetically by firstname
 
 * [Amara Graham](https://github.com/akeller) - Head of Developer Experience. I like experimenting in the kitchen, video games, cycling to nowhere and helping developers.
 * [Bernd Ruecker](https://github.com/berndruecker) - Co-Founder of Camunda and Chief Technologist. Not officially part of the DevRel team, but hanging around there most often trying to do something useful. Located in the south of Germany.
+* [Christina Ausley](https://github.com/christinaausley) - Technical Writer advocating for simpler, easier user experience. Experienced trail runner, amateur snow skier, and aspiring participant of the Great British Baking Show. 
 * [Danielle Andrist](https://www.linkedin.com/in/danielle-andrist/) - Organization junkie, reformatting fanatic, bad joke teller, new mom. 
 * [David G. Simmons](https://github.com/davidgs) - Principal Developer Advocate. Sort of nuts about IoT. Completely nuts about dogs 🐾.
 * [Josh Wulf](https://github.com/jwulf) - Developer Advocate. I write code in a lot of programming languages, but ♥️ JavaScript the most. JavaScript is not only the language that will survive the apocalypse, it's the language most likely to cause it.
@@ -31,4 +32,3 @@ Sorted alphabetically by firstname
 * [Nele Lea Uhlemann](https://github.com/Nlea) -  Associate Developer Advocate. Passionate about Open Source and identifing how technology can help people, organizations and society. If I am not infront of a keyboard you find me rock climbing and running.
 * [Niall Deehan](https://github.com/NPDeehan) - Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
 * [Rin Oliver](https://github.com/celanthe) - Technical Community Builder, storyteller, speaker, Kubernetes member, and neurodivergent open source contributor experience advocate. I love animals, seltzer water, and gardening.
-* [Christina Ausley](https://github.com/christinaausley) - Technical Writer advocating for simpler, easier user experience. Experienced trail runner, amateur snow skier, and aspiring participant of the Great British Baking Show. 
