@@ -31,3 +31,4 @@ Sorted alphabetically by firstname
 * [Nele Lea Uhlemann](https://github.com/Nlea) -  Associate Developer Advocate. Passionate about Open Source and identifing how technology can help people, organizations and society. If I am not infront of a keyboard you find me rock climbing and running.
 * [Niall Deehan](https://github.com/NPDeehan) - Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
 * [Rin Oliver](https://github.com/celanthe) - Technical Community Builder, storyteller, speaker, Kubernetes member, and neurodivergent open source contributor experience advocate. I love animals, seltzer water, and gardening.
+* [Christina Ausley](https://github.com/christinaausley) - Technical Writer advocating for simpler, easier user experience. Experienced trail runner, amateur snow skier, and aspiring participant of the Great British Baking Show. 
