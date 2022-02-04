@@ -23,7 +23,7 @@ Sorted alphabetically by firstname
 * [Amara Graham](https://github.com/akeller) - Head of Developer Experience. I like experimenting in the kitchen, video games, cycling to nowhere and helping developers.
 * [Bernd Ruecker](https://github.com/berndruecker) - Co-Founder of Camunda and Chief Technologist. Not officially part of the DevRel team, but hanging around there most often trying to do something useful. Located in the south of Germany.
 * [Christina Ausley](https://github.com/christinaausley) - Technical Writer advocating for simpler, easier user experience. Experienced trail runner, amateur snow skier, and aspiring participant of the Great British Baking Show. 
-* [Danielle Andrist](https://www.linkedin.com/in/danielle-andrist/) - Organization junkie, reformatting fanatic, bad joke teller, new mom. 
+* [Danielle Andrist](https://www.linkedin.com/in/danielle-andrist/) - DevRel Program Manager. Organizational junkie, reformatting fanatic, bad joke teller, new mom. 
 * [David G. Simmons](https://github.com/davidgs) - Principal Developer Advocate. Sort of nuts about IoT. Completely nuts about dogs 🐾.
 * [Josh Wulf](https://github.com/jwulf) - Developer Advocate. I write code in a lot of programming languages, but ♥️ JavaScript the most. JavaScript is not only the language that will survive the apocalypse, it's the language most likely to cause it.
 * [Luca Buchholz](https://twitter.com/lucaceline_) - Global Community Manager. Passionate about building meaningful relationships that serve global communities and empower individuals. Based in Berlin.
