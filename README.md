@@ -33,3 +33,4 @@ Sorted alphabetically by firstname
 * [Niall Deehan](https://github.com/NPDeehan) - Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
 * [Rin Oliver](https://github.com/celanthe) - Technical Community Builder, storyteller, speaker, Kubernetes member, and neurodivergent open source contributor experience advocate. I love animals, seltzer water, and gardening.
 * [Thomas Heinrichs](https://github.com/Hafflgav) - Cloud Developer Advocate. I love to be creative and experiment around. Coming from DotNet I enjoy exploring various other languages. Besides work I spend my time out in the nature. 
+* [Steven Hicks](https://github.com/pepopowitz) - Developer Experience Engineer. I like it when people enjoy the tools they use. JavaScript, TypeScript, React are my tools of choice. Cyclist, runner, triathlete, and artist -- mediocre at all of them. 
