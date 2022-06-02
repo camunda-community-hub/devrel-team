@@ -29,6 +29,7 @@ Sorted alphabetically by firstname
 * [Luca Buchholz](https://twitter.com/lucaceline_) - Global Community Manager. Passionate about building meaningful relationships that serve global communities and empower individuals. Based in Berlin.
 * [Maria Alcantara](https://twitter.com/maria_alcantara) - Community Manager. Based near Frankfurt, Germany.
 * [Mary Thengvall](https://github.com/mary-grace) - Director of Developer Relations. I love dogs, cheese, and living near the ocean.
+* [Mia Moore](https://github.com/xomiamoore) - Senior Technical Community Builder. Big fan of birds, vegan food, and video games.
 * [Nele Lea Uhlemann](https://github.com/Nlea) -  Associate Developer Advocate. Passionate about Open Source and identifing how technology can help people, organizations and society. If I am not infront of a keyboard you find me rock climbing and running.
 * [Niall Deehan](https://github.com/NPDeehan) - Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
 * [Thomas Heinrichs](https://github.com/Hafflgav) - Cloud Developer Advocate. I love to be creative and experiment around. Coming from DotNet I enjoy exploring various other languages. Besides work I spend my time out in the nature. 
