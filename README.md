@@ -14,10 +14,9 @@ Sorted alphabetically by firstname
 * [Bernd Ruecker](https://github.com/berndruecker) - Co-Founder of Camunda and Chief Technologist. Not officially part of the DevRel team, but hanging around there most often trying to do something useful. Located in the south of Germany.
 * [Danielle Andrist](https://www.linkedin.com/in/danielle-andrist/) - Community Operations Manager. Organizational junkie, reformatting fanatic, bad joke teller, new mom. 
 * [Luca Buchholz](https://twitter.com/lucaceline_) - Senior Community Manager. Passionate about building meaningful relationships that serve global communities and empower individuals. Based in Berlin.
-* [Maria Alcantara](https://twitter.com/maria_alcantara) - Community Manager. Based near Frankfurt, Germany.
+* [Maria Alcantara](https://twitter.com/maria_alcantara) - Community Manager. Based in Málaga, Spain.
 * [Mary Thengvall](https://github.com/mary-grace) - Director of Developer Relations. I love dogs, cheese, and living near the ocean.
 * [Mia Moore](https://github.com/xomiamoore) - Senior Technical Community Builder. Big fan of birds, vegan food, and video games.
-* [Nele Lea Uhlemann](https://github.com/Nlea) -  Developer Advocate. Passionate about Open Source and identifing how technology can help people, organizations and society. If I am not infront of a keyboard you find me rock climbing and running.
 * [Niall Deehan](https://github.com/NPDeehan) - Senior Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
 
 ### Developer Experience
