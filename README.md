@@ -17,6 +17,7 @@ Sorted alphabetically by firstname
 * [Maria Alcantara](https://twitter.com/maria_alcantara) - Community Manager. Based in Málaga, Spain.
 * [Mary Thengvall](https://github.com/mary-grace) - Director of Developer Relations. I love dogs, cheese, and living near the ocean.
 * [Mia Moore](https://github.com/xomiamoore) - Senior Technical Community Builder. Big fan of birds, vegan food, and video games.
+* [Nathan Loding](https://github.com/nloding) - Developer Advocate. Technologist and problem solver, sometimes gardener, and Oreo enthusiast. Known to wear balloon hats in public.
 * [Niall Deehan](https://github.com/NPDeehan) - Senior Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
 
 ### Developer Experience
