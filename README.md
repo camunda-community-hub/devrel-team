@@ -1,4 +1,7 @@
 <img src="https://img.shields.io/badge/Camunda%20DevRel%20Project-Created%20by%20the%20Camunda%20Developer%20Relations%20team-0Ba7B9">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Who Are We?
 
@@ -26,3 +29,25 @@ Sorted alphabetically by firstname
 * [Christina Ausley](https://github.com/christinaausley) - Technical Writer advocating for simpler, easier user experience. Experienced trail runner, amateur snow skier, and aspiring participant of the Great British Baking Show. 
 * [Josh Wulf](https://github.com/jwulf) - Developer Experience Engineer. I write code in a lot of programming languages, but ♥️ JavaScript the most. JavaScript is not only the language that will survive the apocalypse, it's the language most likely to cause it.
 * [Steven Hicks](https://github.com/pepopowitz) - Developer Experience Engineer. I like it when people enjoy the tools they use. JavaScript, TypeScript, React are my tools of choice. Cyclist, runner, triathlete, and artist -- mediocre at all of them. 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.loding.dev/"><img src="https://avatars.githubusercontent.com/u/328425?v=4?s=100" width="100px;" alt="Nathan Loding"/><br /><sub><b>Nathan Loding</b></sub></a><br /><a href="https://github.com/camunda-community-hub/devrel-team/commits?author=nloding" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
