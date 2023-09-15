@@ -18,6 +18,7 @@ Sorted alphabetically by firstname
 * [Mia Moore](https://github.com/xomiamoore) - Senior Technical Community Builder. Big fan of birds, vegan food, and video games.
 * [Nathan Loding](https://github.com/nloding) - Developer Advocate. Technologist and problem solver, sometimes gardener, and Oreo enthusiast. Known to wear balloon hats in public.
 * [Niall Deehan](https://github.com/NPDeehan) - Senior Developer Advocate, maker of tutorials, teller of stories and builder of unmaintainable example projects.
+* [Samantha Holstine](https://github.com/SamanthaHolstine) - Developer Advocate. Dancing and rowing enthusiast, corgi mom, foodie, nature junkie.
 
 ### Developer Experience
 
