@@ -38,6 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://www.loding.dev/"><img src="https://avatars.githubusercontent.com/u/328425?v=4?s=100" width="100px;" alt="Nathan Loding"/><br /><sub><b>Nathan Loding</b></sub></a><br /><a href="https://github.com/camunda-community-hub/devrel-team/commits?author=nloding" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SamanthaHolstine"><img src="https://avatars.githubusercontent.com/u/62853668?v=4?s=100" width="100px;" alt="SamanthaHolstine"/><br /><sub><b>SamanthaHolstine</b></sub></a><br /><a href="https://github.com/camunda-community-hub/devrel-team/commits?author=SamanthaHolstine" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
