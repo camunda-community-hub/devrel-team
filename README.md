@@ -40,6 +40,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://www.loding.dev/"><img src="https://avatars.githubusercontent.com/u/328425?v=4?s=100" width="100px;" alt="Nathan Loding"/><br /><sub><b>Nathan Loding</b></sub></a><br /><a href="https://github.com/camunda-community-hub/devrel-team/commits?author=nloding" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://xomiamoore.carrd.co/"><img src="https://avatars.githubusercontent.com/u/43454823?v=4?s=100" width="100px;" alt="Mia Moore"/><br /><sub><b>Mia Moore</b></sub></a><br /><a href="https://github.com/camunda-community-hub/devrel-team/commits?author=xomiamoore" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/mary-grace"><img src="https://avatars.githubusercontent.com/u/8039851?v=4?s=100" width="100px;" alt="Mary Thengvall"/><br /><sub><b>Mary Thengvall</b></sub></a><br /><a href="https://github.com/camunda-community-hub/devrel-team/commits?author=mary-grace" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.magikcraft.io"><img src="https://avatars.githubusercontent.com/u/406975?v=4?s=100" width="100px;" alt="Josh Wulf"/><br /><sub><b>Josh Wulf</b></sub></a><br /><a href="https://github.com/camunda-community-hub/devrel-team/commits?author=jwulf" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
