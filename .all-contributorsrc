@@ -14,6 +14,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mary-grace",
+      "name": "Mary Thengvall",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8039851?v=4",
+      "profile": "https://github.com/mary-grace",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -21,5 +30,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "devrel-team",
-  "projectOwner": "camunda-community-hub"
+  "projectOwner": "camunda-community-hub",
+  "commitType": "docs"
 }
