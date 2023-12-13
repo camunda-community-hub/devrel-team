@@ -26,6 +26,7 @@ Sorted alphabetically by firstname
 * [Christina Ausley](https://github.com/christinaausley) - Technical Writer advocating for simpler, easier user experience. Experienced trail runner, amateur snow skier, and aspiring participant of the Great British Baking Show. 
 * [Josh Wulf](https://github.com/jwulf) - Developer Experience Engineer. I write code in a lot of programming languages, but ♥️ JavaScript the most. JavaScript is not only the language that will survive the apocalypse, it's the language most likely to cause it.
 * [Steven Hicks](https://github.com/pepopowitz) - Developer Experience Engineer. I like it when people enjoy the tools they use. JavaScript, TypeScript, React are my tools of choice. Cyclist, runner, triathlete, and artist -- mediocre at all of them. 
+* [Van](https://github.com/1nb0und) - Senior Developer Experience Engineer. Crafting Seamless Experiences in the Java Universe.
 
 ## Contributors ✨
 
