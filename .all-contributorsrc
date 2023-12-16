@@ -16,7 +16,6 @@
       ]
     },
     {
-
       "login": "xomiamoore",
       "name": "Mia Moore",
       "avatar_url": "https://avatars.githubusercontent.com/u/43454823?v=4",
@@ -25,12 +24,20 @@
         "doc"
       ]
     },
-   {
-
+    {
       "login": "mary-grace",
       "name": "Mary Thengvall",
       "avatar_url": "https://avatars.githubusercontent.com/u/8039851?v=4",
       "profile": "https://github.com/mary-grace",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jwulf",
+      "name": "Josh Wulf",
+      "avatar_url": "https://avatars.githubusercontent.com/u/406975?v=4",
+      "profile": "https://www.magikcraft.io",
       "contributions": [
         "doc"
       ]
